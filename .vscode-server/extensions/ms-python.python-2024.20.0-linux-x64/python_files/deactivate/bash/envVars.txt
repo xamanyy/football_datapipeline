@@ -11,7 +11,7 @@ LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd
 VIRTUAL_ENV=/home/ubuntu/airflow-venv
 SSL_CERT_DIR=/usr/lib/ssl/certs
 GIT_ASKPASS=/home/ubuntu/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/extensions/git/dist/askpass.sh
-SSH_CONNECTION=136.226.254.195 3199 172.31.28.221 22
+SSH_CONNECTION=136.226.254.169 29310 172.31.28.221 22
 VSCODE_GIT_ASKPASS_EXTRA_ARGS=
 LESSCLOSE=/usr/bin/lesspipe %s %s
 XDG_SESSION_CLASS=user
@@ -25,12 +25,12 @@ VIRTUAL_ENV_PROMPT=(airflow-venv)
 XDG_RUNTIME_DIR=/run/user/1000
 SSL_CERT_FILE=/usr/lib/ssl/cert.pem
 PS1=\[]633;A\](airflow-venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ \[]633;B\]
-SSH_CLIENT=136.226.254.195 3199 22
+SSH_CLIENT=136.226.254.169 29310 22
 VSCODE_GIT_ASKPASS_MAIN=/home/ubuntu/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/extensions/git/dist/askpass-main.js
 XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
 BROWSER=/home/ubuntu/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/bin/helpers/browser.sh
 PATH=/home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/ubuntu/airflow-venv/bin:/home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/ubuntu/airflow-venv/bin:/home/ubuntu/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 TERM_PROGRAM=vscode
-VSCODE_IPC_HOOK_CLI=/run/user/1000/vscode-ipc-61c3d324-3f85-4fb4-904b-c68c4cbd3ca1.sock
-_=/usr/bin/python3
+VSCODE_IPC_HOOK_CLI=/run/user/1000/vscode-ipc-c3d74546-db9d-447a-8832-d0cfe5758e55.sock
+_=/bin/python3

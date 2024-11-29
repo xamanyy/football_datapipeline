@@ -5,7 +5,7 @@ import os
 import sys
 
 sys.path.insert(0,os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from pipelines.extraction_data import main_extract_data,transform_data,writing_data
+from pipelines_football.extraction_data import main_extract_data,transform_data,writing_data
 
 dag = DAG(
     dag_id="football_data",

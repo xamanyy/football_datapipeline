@@ -1,0 +1,82 @@
+2024-11-14 07:37:18.797 [info] 
+
+
+
+
+2024-11-14 07:37:18.808 [info] Extension host agent started.
+2024-11-14 07:37:18.860 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-11-14 07:37:18.878 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-11-14 07:37:19.144 [info] [<unknown>][243df244][ManagementConnection] New connection established.
+2024-11-14 07:37:19.147 [info] [<unknown>][838e2360][ExtensionHostConnection] New connection established.
+2024-11-14 07:37:19.260 [info] [<unknown>][838e2360][ExtensionHostConnection] <3225> Launched Extension Host Process.
+2024-11-14 07:37:39.435 [info] [<unknown>][243df244][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-14 07:37:39.470 [info] [<unknown>][838e2360][ExtensionHostConnection] <3225> Extension Host Process exited with code: 0, signal: null.
+2024-11-14 07:37:39.471 [info] Cancelling previous shutdown timeout
+2024-11-14 07:37:39.471 [info] Last EH closed, waiting before shutting down
+2024-11-14 07:37:49.365 [info] [<unknown>][0f57aa7a][ManagementConnection] New connection established.
+2024-11-14 07:37:49.373 [info] [<unknown>][0757939b][ExtensionHostConnection] New connection established.
+2024-11-14 07:37:49.381 [info] [<unknown>][0757939b][ExtensionHostConnection] <3385> Launched Extension Host Process.
+2024-11-14 07:39:39.475 [info] [<unknown>][0f57aa7a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-14 07:39:39.515 [info] [<unknown>][0757939b][ExtensionHostConnection] <3385> Extension Host Process exited with code: 0, signal: null.
+2024-11-14 07:39:39.516 [info] Cancelling previous shutdown timeout
+2024-11-14 07:39:39.516 [info] Last EH closed, waiting before shutting down
+2024-11-14 07:39:47.376 [info] [<unknown>][3da6abf1][ManagementConnection] New connection established.
+2024-11-14 07:39:47.377 [info] [<unknown>][5e753357][ExtensionHostConnection] New connection established.
+2024-11-14 07:39:47.381 [info] [<unknown>][5e753357][ExtensionHostConnection] <3597> Launched Extension Host Process.
+2024-11-14 07:40:38.147 [error] CodeExpectedError: Could not find pty 9 on pty host
+    at M.U (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-14 07:40:38.151 [error] CodeExpectedError: Could not find pty 9 on pty host
+    at M.U (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateIcon (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6462)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-14 07:40:38.153 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-11-14 07:44:39.516 [info] New EH opened, aborting shutdown
+2024-11-14 07:47:15.625 [info] [<unknown>][3da6abf1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-14 07:47:15.670 [info] [<unknown>][5e753357][ExtensionHostConnection] <3597> Extension Host Process exited with code: 0, signal: null.
+2024-11-14 07:47:15.671 [info] Last EH closed, waiting before shutting down
+2024-11-14 07:47:24.166 [info] [<unknown>][4124bc99][ExtensionHostConnection] New connection established.
+2024-11-14 07:47:24.168 [info] [<unknown>][0ebf11a7][ManagementConnection] New connection established.
+2024-11-14 07:47:24.176 [info] [<unknown>][4124bc99][ExtensionHostConnection] <4197> Launched Extension Host Process.
+2024-11-14 07:47:56.457 [info] Getting Manifest... ms-python.python
+2024-11-14 07:47:56.556 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-11-14 07:47:57.106 [info] Getting Manifest... ms-python.vscode-pylance
+2024-11-14 07:47:57.148 [info] Getting Manifest... ms-python.debugpy
+2024-11-14 07:47:57.186 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-14 07:47:57.187 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-14 07:48:02.100 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 4105ms.
+2024-11-14 07:48:02.120 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 4172ms.
+2024-11-14 07:48:02.430 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 3128ms.
+2024-11-14 07:48:04.158 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-11-14 07:48:04.168 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-11-14 07:48:06.672 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64: ms-python.python
+2024-11-14 07:48:06.682 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64
+2024-11-14 07:48:11.974 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2: ms-python.vscode-pylance
+2024-11-14 07:48:12.006 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2
+2024-11-14 07:48:12.078 [info] Extension installed successfully: ms-python.debugpy file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-11-14 07:48:12.078 [info] Extension installed successfully: ms-python.python file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-11-14 07:48:12.078 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-11-14 07:52:15.672 [info] New EH opened, aborting shutdown

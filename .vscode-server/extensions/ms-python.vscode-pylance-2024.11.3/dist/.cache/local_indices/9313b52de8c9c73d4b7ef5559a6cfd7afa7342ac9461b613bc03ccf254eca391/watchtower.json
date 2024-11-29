@@ -1,0 +1,1 @@
+[[[0,"/home/ubuntu/airflow-venv/lib/python3.12/site-packages/watchtower/__init__.py","","",null,1],[false,[["DEFAULT_LOG_STREAM_NAME",1,14,null],["_json_serialize_default",1,12,null],["_boto_debug_filter",1,12,null],["_boto_filter",1,12,null],["WatchtowerWarning",1,5,null],["WatchtowerError",1,5,null],["CloudWatchLogFormatter",1,5,null],["CloudWatchLogHandler",1,5,null]]]]]

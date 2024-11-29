@@ -1,0 +1,60 @@
+2024-11-14 07:48:14.001 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-14 07:48:14.001 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-14 07:48:14.001 [info] Experiment 'pythonTestAdapter' is active
+2024-11-14 07:48:14.001 [warning] Dir "/home/ubuntu/.pixi/envs" is not watchable (directory does not exist)
+2024-11-14 07:48:14.048 [info] > ./airflow-venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/interpreterInfo.py
+2024-11-14 07:48:14.227 [info] Python interpreter path: ./airflow-venv/bin/python
+2024-11-14 07:48:14.240 [info] > pyenv which python
+2024-11-14 07:48:14.240 [info] cwd: .
+2024-11-14 07:48:14.841 [info] > . ./airflow-venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-14 07:48:14.841 [info] shell: bash
+2024-11-14 07:48:14.890 [info] > python ./.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-14 07:48:14.890 [info] shell: bash
+2024-11-14 07:48:14.896 [info] Setting environment variable PYTHONUNBUFFERED in collection to 1 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 07:48:14.896 [info] Setting environment variable VIRTUAL_ENV in collection to /home/ubuntu/airflow-venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 07:48:14.896 [info] Setting environment variable PYTHONIOENCODING in collection to utf-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 07:48:14.896 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (airflow-venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 07:48:14.896 [info] Prepending environment variable PS1 in collection with (airflow-venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-14 07:48:14.896 [info] Prepending environment variable PATH in collection with /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/ubuntu/airflow-venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 07:48:14.897 [info] Send text to terminal: python /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-14 07:48:15.432 [info] Starting Pylance language server.
+2024-11-14 07:48:22.204 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:49:07.933 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:49:24.502 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:49:27.286 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:49:55.282 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:50:37.783 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:50:58.358 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:51:10.840 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:51:28.376 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:51:40.915 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:51:52.048 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:51:56.632 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:52:05.556 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:52:19.340 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:52:43.324 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:52:50.446 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:53:39.655 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:53:52.589 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:53:57.178 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:54:43.981 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:54:54.547 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:55:21.196 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:56:02.673 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:56:05.605 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:56:15.784 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:56:31.676 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:56:33.622 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:56:38.597 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:57:23.007 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 07:58:23.264 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:58:36.328 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:58:54.984 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:59:20.342 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:59:25.146 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 07:59:52.876 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 08:01:36.462 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 08:01:46.402 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 08:01:58.687 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/football_dag.py
+2024-11-14 08:02:31.883 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py
+2024-11-14 08:02:37.709 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines.py/extraction_data.py

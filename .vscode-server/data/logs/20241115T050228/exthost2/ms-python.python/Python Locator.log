@@ -1,0 +1,39 @@
+2024-11-15 05:03:01.324 [info] Starting Python Locator /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python-env-tools/bin/pet server
+2024-11-15 05:03:01.324 [info] Discovered env: /home/ubuntu/airflow-venv/bin/python
+2024-11-15 05:03:01.324 [info] Discovered env: /usr/bin/python3
+2024-11-15 05:03:01.324 [info] Discovered env: /bin/python3
+2024-11-15 05:03:01.360 [info] Locator Conda took 120.385861ms
+2024-11-15 05:03:01.360 [info] Locator Homebrew took 97.124µs
+2024-11-15 05:03:01.360 [info] Locator LinuxGlobal took 111.150736ms
+2024-11-15 05:03:01.361 [info] Locator PipEnv took 14.683µs
+2024-11-15 05:03:01.361 [info] Locator Poetry took 178.798µs
+2024-11-15 05:03:01.361 [info] Locator PyEnv took 3.022393ms
+2024-11-15 05:03:01.361 [info] Locator Venv took 14.44µs
+2024-11-15 05:03:01.366 [info] Locator VirtualEnv took 12.161µs
+2024-11-15 05:03:01.367 [info] Locator VirtualEnvWrapper took 14.967µs
+2024-11-15 05:03:01.398 [info] Locator GlobalVirtualEnvs took 180.139µs
+2024-11-15 05:03:01.405 [info] Locator Locators took 120.913679ms
+2024-11-15 05:03:01.420 [info] Locator Path took 229.693581ms
+2024-11-15 05:03:01.420 [info] Locator Workspaces took 105.836639ms
+2024-11-15 05:03:01.431 [info] Refresh completed in 234ms
+2024-11-15 05:03:01.440 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 05:32:18.137 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 05:40:30.905 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 05:44:38.914 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 05:58:12.971 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:03:20.873 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:03:54.973 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:04:48.597 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:05:59.240 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:08:49.764 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:12:24.849 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:24:48.695 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:29:57.896 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:41:14.014 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:42:04.520 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:43:35.470 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:45:52.876 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:49:41.567 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 06:59:54.165 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 07:01:42.518 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-15 07:02:16.530 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python

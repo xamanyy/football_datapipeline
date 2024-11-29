@@ -1,0 +1,17 @@
+[2024-11-15T11:03:09.403+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-15T11:03:09.423+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: football_data.write_data manual__2024-11-15T11:02:57.866835+00:00 [queued]>
+[2024-11-15T11:03:09.431+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: football_data.write_data manual__2024-11-15T11:02:57.866835+00:00 [queued]>
+[2024-11-15T11:03:09.431+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-15T11:03:09.448+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): write_data> on 2024-11-15 11:02:57.866835+00:00
+[2024-11-15T11:03:09.456+0000] {standard_task_runner.py:72} INFO - Started process 14904 to run task
+[2024-11-15T11:03:09.461+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'football_data', 'write_data', 'manual__2024-11-15T11:02:57.866835+00:00', '--job-id', '84', '--raw', '--subdir', 'DAGS_FOLDER/football_dag.py', '--cfg-path', '/tmp/tmp2dfez2k9']
+[2024-11-15T11:03:09.463+0000] {standard_task_runner.py:105} INFO - Job 84: Subtask write_data
+[2024-11-15T11:03:09.531+0000] {task_command.py:467} INFO - Running <TaskInstance: football_data.write_data manual__2024-11-15T11:02:57.866835+00:00 [running]> on host ip-172-31-28-221.eu-north-1.compute.internal
+[2024-11-15T11:03:09.644+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='aman Singh' AIRFLOW_CTX_DAG_ID='football_data' AIRFLOW_CTX_TASK_ID='write_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-15T11:02:57.866835+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-15T11:02:57.866835+00:00'
+[2024-11-15T11:03:09.645+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-15T11:03:09.687+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-15T11:03:09.694+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-15T11:03:09.695+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=football_data, task_id=write_data, run_id=manual__2024-11-15T11:02:57.866835+00:00, execution_date=20241115T110257, start_date=20241115T110309, end_date=20241115T110309
+[2024-11-15T11:03:09.758+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-15T11:03:09.771+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-15T11:03:09.772+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

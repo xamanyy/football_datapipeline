@@ -1,0 +1,18 @@
+[2024-11-15T10:37:24.004+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-15T10:37:24.024+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: football_data.extract_data manual__2024-11-15T10:37:20.965119+00:00 [queued]>
+[2024-11-15T10:37:24.043+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: football_data.extract_data manual__2024-11-15T10:37:20.965119+00:00 [queued]>
+[2024-11-15T10:37:24.043+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-15T10:37:24.082+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): extract_data> on 2024-11-15 10:37:20.965119+00:00
+[2024-11-15T10:37:24.093+0000] {standard_task_runner.py:72} INFO - Started process 8716 to run task
+[2024-11-15T10:37:24.111+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'football_data', 'extract_data', 'manual__2024-11-15T10:37:20.965119+00:00', '--job-id', '70', '--raw', '--subdir', 'DAGS_FOLDER/football_dag.py', '--cfg-path', '/tmp/tmpwt4qr8wf']
+[2024-11-15T10:37:24.115+0000] {standard_task_runner.py:105} INFO - Job 70: Subtask extract_data
+[2024-11-15T10:37:24.177+0000] {task_command.py:467} INFO - Running <TaskInstance: football_data.extract_data manual__2024-11-15T10:37:20.965119+00:00 [running]> on host ip-172-31-28-221.eu-north-1.compute.internal
+[2024-11-15T10:37:24.287+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='aman Singh' AIRFLOW_CTX_DAG_ID='football_data' AIRFLOW_CTX_TASK_ID='extract_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-15T10:37:20.965119+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-15T10:37:20.965119+00:00'
+[2024-11-15T10:37:24.288+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-15T10:37:24.440+0000] {logging_mixin.py:190} INFO - <Response [200]>
+[2024-11-15T10:37:25.014+0000] {python.py:240} INFO - Done. Returned value was: Done
+[2024-11-15T10:37:25.027+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-15T10:37:25.028+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=football_data, task_id=extract_data, run_id=manual__2024-11-15T10:37:20.965119+00:00, execution_date=20241115T103720, start_date=20241115T103724, end_date=20241115T103725
+[2024-11-15T10:37:25.052+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-15T10:37:25.067+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-11-15T10:37:25.073+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

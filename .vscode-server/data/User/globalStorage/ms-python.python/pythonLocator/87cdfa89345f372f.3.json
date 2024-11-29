@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/ubuntu/airflow-venv/bin/python",
+    "prefix": "/home/ubuntu/airflow-venv",
+    "version": "3.12.3.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/ubuntu/airflow-venv/bin/python",
+      "/home/ubuntu/airflow-venv/bin/python3",
+      "/home/ubuntu/airflow-venv/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

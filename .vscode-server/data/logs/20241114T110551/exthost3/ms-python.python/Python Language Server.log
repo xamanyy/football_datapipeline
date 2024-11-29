@@ -1,0 +1,39 @@
+2024-11-14 11:07:12.724 [info] [Info  - 11:07:12 AM] (1667) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 11:07:12.725 [info] [Info  - 11:07:12 AM] (1667) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-14 11:07:12.725 [info] [Info  - 11:07:12 AM] (1667) Starting service instance "ubuntu"
+2024-11-14 11:07:12.756 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-14 11:07:12.838 [info] [Info  - 11:07:12 AM] (1667) Setting environmentName for service "ubuntu": "3.12.3 (airflow-venv venv)"
+2024-11-14 11:07:12.839 [info] [Info  - 11:07:12 AM] (1667) Setting pythonPath for service "ubuntu": "/home/ubuntu/airflow-venv/bin/python"
+2024-11-14 11:07:12.840 [info] [Info  - 11:07:12 AM] (1667) No include entries specified; assuming /home/ubuntu
+2024-11-14 11:07:12.842 [info] [Info  - 11:07:12 AM] (1667) Auto-excluding **/node_modules
+2024-11-14 11:07:12.843 [info] [Info  - 11:07:12 AM] (1667) Auto-excluding **/__pycache__
+2024-11-14 11:07:12.845 [info] [Info  - 11:07:12 AM] (1667) Auto-excluding **/.*
+2024-11-14 11:07:12.891 [info] [Info  - 11:07:12 AM] (1667) Assuming Python version 3.12.3.final.0
+2024-11-14 11:07:13.640 [info] [Info  - 11:07:13 AM] (1667) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-14 11:07:13.662 [info] [Info  - 11:07:13 AM] (1667) Found 3 source files
+2024-11-14 11:07:15.139 [info] [Info  - 11:07:15 AM] (1667) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 11:07:15.144 [info] [Info  - 11:07:15 AM] (1667) Background analysis(1) started
+2024-11-14 11:07:15.639 [info] [Info  - 11:07:15 AM] (1667) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-14 11:07:15.644 [info] [Info  - 11:07:15 AM] (1667) Indexing(2) started
+2024-11-14 11:07:18.298 [info] [Info  - 11:07:18 AM] (1667) [IDX(2)] Long operation: scan packages file:///home/ubuntu (2395ms)
+2024-11-14 11:07:18.298 [info] [Info  - 11:07:18 AM] (1667) scanned(2) 155 files over 1 exec env
+2024-11-14 11:07:19.422 [info] [Info  - 11:07:19 AM] (1667) indexed(2) 155 files over 1 exec env
+2024-11-14 11:07:19.666 [info] [Info  - 11:07:19 AM] (1667) Indexing finished(2).
+2024-11-14 11:07:22.451 [info] [Info  - 11:07:22 AM] (1667) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (5966ms)
+2024-11-14 11:07:22.451 [info] [Info  - 11:07:22 AM] (1667) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (5984ms)
+2024-11-14 11:11:05.703 [info] [Info  - 11:11:05 AM] (1667) Starting service instance "<default>"
+2024-11-14 11:11:05.748 [info] [Info  - 11:11:05 AM] (1667) Setting environmentName for service "<default>": "3.12.3 (airflow-venv venv)"
+2024-11-14 11:11:05.750 [info] [Info  - 11:11:05 AM] (1667) Setting pythonPath for service "<default>": "/home/ubuntu/airflow-venv/bin/python"
+2024-11-14 11:11:05.750 [info] [Info  - 11:11:05 AM] (1667) No include entries specified; assuming /<default workspace root>
+2024-11-14 11:11:05.750 [info] [Info  - 11:11:05 AM] (1667) Auto-excluding **/node_modules
+2024-11-14 11:11:05.750 [info] [Info  - 11:11:05 AM] (1667) Auto-excluding **/__pycache__
+2024-11-14 11:11:05.751 [info] [Info  - 11:11:05 AM] (1667) Auto-excluding **/.*
+2024-11-14 11:11:05.806 [info] [Info  - 11:11:05 AM] (1667) Assuming Python version 3.12.3.final.0
+2024-11-14 11:11:05.987 [info] [Error - 11:11:05 AM] (1667) File or directory "/<default workspace root>" does not exist.
+2024-11-14 11:11:05.987 [info] [Info  - 11:11:05 AM] (1667) No source files found.
+2024-11-14 11:11:06.812 [info] [Info  - 11:11:06 AM] (1667) Background analysis(3) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 11:11:06.818 [info] [Info  - 11:11:06 AM] (1667) Background analysis(3) started
+2024-11-14 11:25:40.782 [info] [Info  - 11:25:40 AM] (1667) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-14 11:25:40.827 [info] [Info  - 11:25:40 AM] (1667) Found 4 source files
+2024-11-14 11:25:44.934 [info] [Info  - 11:25:44 AM] (1667) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (3651ms)
+2024-11-14 11:25:44.934 [info] [Info  - 11:25:44 AM] (1667) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (3651ms)

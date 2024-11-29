@@ -1,0 +1,24 @@
+2024-11-14 11:05:51.407 [info] 
+
+
+
+
+2024-11-14 11:05:51.427 [info] Extension host agent started.
+2024-11-14 11:05:51.912 [error] [<unknown>][0ebf11a7][ManagementConnection] Unknown reconnection token (never seen).
+2024-11-14 11:05:55.561 [info] [<unknown>][25c0591c][ExtensionHostConnection] New connection established.
+2024-11-14 11:05:55.563 [info] [<unknown>][a826904c][ManagementConnection] New connection established.
+2024-11-14 11:05:55.568 [info] [<unknown>][25c0591c][ExtensionHostConnection] <1262> Launched Extension Host Process.
+2024-11-14 11:05:57.337 [info] [<unknown>][a826904c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-14 11:06:27.854 [info] [<unknown>][5bdba0dc][ExtensionHostConnection] New connection established.
+2024-11-14 11:06:27.855 [info] [<unknown>][8a12f67a][ManagementConnection] New connection established.
+2024-11-14 11:06:27.859 [info] [<unknown>][5bdba0dc][ExtensionHostConnection] <1380> Launched Extension Host Process.
+2024-11-14 11:06:54.522 [info] [<unknown>][8a12f67a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-14 11:06:54.559 [info] [<unknown>][5bdba0dc][ExtensionHostConnection] <1380> Extension Host Process exited with code: 0, signal: null.
+2024-11-14 11:06:54.560 [info] Cancelling previous shutdown timeout
+2024-11-14 11:07:05.712 [info] [<unknown>][f25239de][ExtensionHostConnection] New connection established.
+2024-11-14 11:07:05.713 [info] [<unknown>][fefa6f52][ManagementConnection] New connection established.
+2024-11-14 11:07:05.719 [info] [<unknown>][f25239de][ExtensionHostConnection] <1521> Launched Extension Host Process.
+2024-11-14 11:11:28.062 [info] [<unknown>][25c0591c][ExtensionHostConnection] <1262> Extension Host Process exited with code: 0, signal: null.
+2024-11-14 11:11:28.069 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)

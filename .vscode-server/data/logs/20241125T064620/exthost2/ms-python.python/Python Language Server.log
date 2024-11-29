@@ -1,0 +1,51 @@
+2024-11-25 06:46:57.651 [info] [Info  - 6:46:57 AM] (1505) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.3/dist
+2024-11-25 06:46:57.656 [info] (Client) Pylance async client (2024.11.3) started with python extension (2024.20.0)
+2024-11-25 06:46:57.656 [info] [Info  - 6:46:57 AM] (1505) Pylance language server 2024.11.3 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-25 06:46:57.656 [info] [Info  - 6:46:57 AM] (1505) Starting service instance "ubuntu"
+2024-11-25 06:46:57.783 [info] [Info  - 6:46:57 AM] (1505) Setting environmentName for service "ubuntu": "3.12.3 (airflow-venv venv)"
+2024-11-25 06:46:57.784 [info] [Info  - 6:46:57 AM] (1505) Setting pythonPath for service "ubuntu": "/home/ubuntu/airflow-venv/bin/python"
+2024-11-25 06:46:57.785 [info] [Info  - 6:46:57 AM] (1505) No include entries specified; assuming /home/ubuntu
+2024-11-25 06:46:57.786 [info] [Info  - 6:46:57 AM] (1505) Auto-excluding **/node_modules
+2024-11-25 06:46:57.786 [info] [Info  - 6:46:57 AM] (1505) Auto-excluding **/__pycache__
+2024-11-25 06:46:57.786 [info] [Info  - 6:46:57 AM] (1505) Auto-excluding **/.*
+2024-11-25 06:46:57.822 [info] [Info  - 6:46:57 AM] (1505) Assuming Python version 3.12.3.final.0
+2024-11-25 06:46:58.117 [info] [Info  - 6:46:58 AM] (1505) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-25 06:46:58.122 [info] [Info  - 6:46:58 AM] (1505) Found 3 source files
+2024-11-25 06:46:59.774 [info] [Info  - 6:46:59 AM] (1505) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.3/dist
+2024-11-25 06:46:59.775 [info] [Info  - 6:46:59 AM] (1505) Background analysis(1) started
+2024-11-25 06:47:00.174 [info] [Info  - 6:47:00 AM] (1505) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.3/dist (index)
+2024-11-25 06:47:00.174 [info] [Info  - 6:47:00 AM] (1505) Indexing(2) started
+2024-11-25 06:47:02.096 [info] [Info  - 6:47:02 AM] (1505) scanned(2) 157 files over 1 exec env
+2024-11-25 06:47:09.095 [info] [Info  - 6:47:09 AM] (1505) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (8076ms)
+2024-11-25 06:47:09.096 [info] [Info  - 6:47:09 AM] (1505) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (8086ms)
+2024-11-25 06:47:11.233 [info] [Info  - 6:47:11 AM] (1505) [IDX(2)] Long operation: index execution environment file:///home/ubuntu (8113ms)
+2024-11-25 06:47:11.233 [info] [Info  - 6:47:11 AM] (1505) [IDX(2)] Long operation: index packages file:///home/ubuntu (8177ms)
+2024-11-25 06:47:11.233 [info] [Info  - 6:47:11 AM] (1505) indexed(2) 157 files over 1 exec env
+2024-11-25 06:47:11.610 [info] [Info  - 6:47:11 AM] (1505) Indexing finished(2).
+2024-11-25 06:48:03.402 [info] [Info  - 6:48:03 AM] (1505) [BG(1)] Long operation: SemanticTokens full at file:///home/ubuntu/airflow/pipelines/extraction_data.py (2765ms)
+2024-11-25 08:14:11.565 [info] [Info  - 8:14:11 AM] (1505) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-25 08:14:11.633 [info] [Info  - 8:14:11 AM] (1505) Found 3 source files
+2024-11-25 08:14:12.343 [info] [Info  - 8:14:12 AM] (1505) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-25 08:14:12.387 [info] [Info  - 8:14:12 AM] (1505) Found 3 source files
+2024-11-25 08:14:12.665 [info] [Info  - 8:14:12 AM] (1505) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-25 08:14:12.712 [info] [Info  - 8:14:12 AM] (1505) Found 3 source files
+2024-11-25 08:14:15.296 [info] [Info  - 8:14:15 AM] (1505) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-25 08:14:15.343 [info] [Info  - 8:14:15 AM] (1505) Found 3 source files
+2024-11-25 08:14:20.087 [info] [Info  - 8:14:20 AM] (1505) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (6882ms)
+2024-11-25 08:14:20.088 [info] [Info  - 8:14:20 AM] (1505) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (6892ms)
+2024-11-25 08:14:22.519 [info] [Info  - 8:14:22 AM] (1505) Indexer background runner(3) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.3/dist (refresh)
+2024-11-25 08:14:22.519 [info] [Info  - 8:14:22 AM] (1505) Indexing(3) started
+2024-11-25 08:14:24.451 [info] [Info  - 8:14:24 AM] (1505) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-25 08:14:24.499 [info] [Info  - 8:14:24 AM] (1505) Found 3 source files
+2024-11-25 08:14:24.505 [info] [Info  - 8:14:24 AM] (1505) Indexing finished(3).
+2024-11-25 08:14:24.919 [info] [Info  - 8:14:24 AM] (1505) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (4015ms)
+2024-11-25 08:14:24.920 [info] [Info  - 8:14:24 AM] (1505) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (4018ms)
+2024-11-25 08:14:27.242 [info] [Info  - 8:14:27 AM] (1505) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (2181ms)
+2024-11-25 08:14:27.243 [info] [Info  - 8:14:27 AM] (1505) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (2182ms)
+2024-11-25 08:14:36.170 [info] [Info  - 8:14:36 AM] (1505) Indexer background runner(4) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.3/dist (refresh)
+2024-11-25 08:14:36.170 [info] [Info  - 8:14:36 AM] (1505) Indexing(4) started
+2024-11-25 08:14:37.957 [info] [Info  - 8:14:37 AM] (1505) scanned(4) 162 files over 1 exec env
+2024-11-25 08:14:39.629 [info] [Info  - 8:14:39 AM] (1505) [BG(1)] Long operation: checking: file:///home/ubuntu/airflow/dags/football_dag.py (5119ms)
+2024-11-25 08:14:39.629 [info] [Info  - 8:14:39 AM] (1505) [BG(1)] Long operation: analyzing: file:///home/ubuntu/airflow/dags/football_dag.py (5210ms)
+2024-11-25 08:14:39.901 [info] [Info  - 8:14:39 AM] (1505) indexed(4) 162 files over 1 exec env
+2024-11-25 08:14:40.118 [info] [Info  - 8:14:40 AM] (1505) Indexing finished(4).

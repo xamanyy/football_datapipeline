@@ -1,0 +1,35 @@
+2024-11-28 10:38:27.886 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-28 10:38:27.886 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-28 10:38:27.886 [info] Experiment 'pythonTestAdapter' is active
+2024-11-28 10:38:27.886 [info] Native locator: Refresh started
+2024-11-28 10:38:27.917 [info] Native locator: Refresh finished in 1631 ms
+2024-11-28 10:38:27.969 [info] Python interpreter path: ./airflow-venv/bin/python
+2024-11-28 10:38:28.021 [info] > pyenv which python
+2024-11-28 10:38:28.021 [info] cwd: .
+2024-11-28 10:38:28.766 [info] > . ./airflow-venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-28 10:38:28.766 [info] shell: bash
+2024-11-28 10:38:29.034 [info] > /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-28 10:38:29.034 [info] shell: bash
+2024-11-28 10:38:29.084 [info] Setting environment variable VIRTUAL_ENV in collection to /home/ubuntu/airflow-venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-28 10:38:29.084 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (airflow-venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-28 10:38:29.084 [info] Prepending environment variable PS1 in collection with (airflow-venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-28 10:38:29.084 [info] Prepending environment variable PATH in collection with /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/ubuntu/airflow-venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-28 10:38:29.085 [info] Send text to terminal: /usr/bin/python3 /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-28 10:38:29.824 [info] Starting Pylance language server.
+2024-11-28 10:44:01.553 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:44:07.257 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:44:14.445 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:45:19.220 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:45:27.457 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:48:21.463 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:48:25.826 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:49:31.192 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:49:38.231 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:50:44.676 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:50:47.512 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:51:07.593 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:51:14.080 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:52:35.877 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:53:45.326 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 10:53:55.591 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py
+2024-11-28 11:30:08.400 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/pipelines/extraction_data.py

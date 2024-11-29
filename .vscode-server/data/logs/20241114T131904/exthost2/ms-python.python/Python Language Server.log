@@ -1,0 +1,21 @@
+2024-11-14 13:20:25.823 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-14 13:20:25.931 [info] [Info  - 1:20:25 PM] (1613) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 13:20:25.943 [info] [Info  - 1:20:25 PM] (1613) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-14 13:20:25.943 [info] [Info  - 1:20:25 PM] (1613) Starting service instance "ubuntu"
+2024-11-14 13:20:26.027 [info] [Info  - 1:20:26 PM] (1613) Setting environmentName for service "ubuntu": "3.12.3 (airflow-venv venv)"
+2024-11-14 13:20:26.028 [info] [Info  - 1:20:26 PM] (1613) Setting pythonPath for service "ubuntu": "/home/ubuntu/airflow-venv/bin/python"
+2024-11-14 13:20:26.030 [info] [Info  - 1:20:26 PM] (1613) No include entries specified; assuming /home/ubuntu
+2024-11-14 13:20:26.031 [info] [Info  - 1:20:26 PM] (1613) Auto-excluding **/node_modules
+2024-11-14 13:20:26.034 [info] [Info  - 1:20:26 PM] (1613) Auto-excluding **/__pycache__
+2024-11-14 13:20:26.034 [info] [Info  - 1:20:26 PM] (1613) Auto-excluding **/.*
+2024-11-14 13:20:26.066 [info] [Info  - 1:20:26 PM] (1613) Assuming Python version 3.12.3.final.0
+2024-11-14 13:20:26.236 [info] [Info  - 1:20:26 PM] (1613) Auto-excluding /home/ubuntu/airflow-venv
+2024-11-14 13:20:26.245 [info] [Info  - 1:20:26 PM] (1613) Found 3 source files
+2024-11-14 13:20:28.032 [info] [Info  - 1:20:28 PM] (1613) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 13:20:28.038 [info] [Info  - 1:20:28 PM] (1613) Background analysis(1) started
+2024-11-14 13:20:28.439 [info] [Info  - 1:20:28 PM] (1613) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-14 13:20:28.445 [info] [Info  - 1:20:28 PM] (1613) Indexing(2) started
+2024-11-14 13:20:30.548 [info] [Info  - 1:20:30 PM] (1613) scanned(2) 155 files over 1 exec env
+2024-11-14 13:20:31.059 [info] [Info  - 1:20:31 PM] (1613) indexed(2) 155 files over 1 exec env
+2024-11-14 13:20:31.180 [info] [Info  - 1:20:31 PM] (1613) Indexing finished(2).
+2024-11-14 13:35:27.615 [info] [Info  - 1:35:27 PM] (1613) [BG(1)] Long operation: SemanticTokens full at file:///home/ubuntu/airflow/dags/football_dag.py (4079ms)

@@ -1,0 +1,20 @@
+2024-11-25 06:46:56.225 [info] Starting Python Locator /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-x64/python-env-tools/bin/pet server
+2024-11-25 06:46:56.225 [info] Discovered env: /home/ubuntu/airflow-venv/bin/python
+2024-11-25 06:46:56.225 [info] Discovered env: /usr/bin/python3
+2024-11-25 06:46:56.225 [info] Discovered env: /bin/python3
+2024-11-25 06:46:56.226 [info] Locator Conda took 123.624211ms
+2024-11-25 06:46:56.233 [info] Locator Homebrew took 92.574µs
+2024-11-25 06:46:56.234 [info] Locator LinuxGlobal took 100.475353ms
+2024-11-25 06:46:56.234 [info] Locator PipEnv took 23.181µs
+2024-11-25 06:46:56.239 [info] Locator Poetry took 318.677µs
+2024-11-25 06:46:56.239 [info] Locator PyEnv took 2.471053ms
+2024-11-25 06:46:56.239 [info] Locator Venv took 25.483µs
+2024-11-25 06:46:56.240 [info] Locator VirtualEnv took 83.122µs
+2024-11-25 06:46:56.240 [info] Locator VirtualEnvWrapper took 30.717µs
+2024-11-25 06:46:56.245 [info] Locator GlobalVirtualEnvs took 205.982µs
+2024-11-25 06:46:56.245 [info] Locator Locators took 123.839613ms
+2024-11-25 06:46:56.245 [info] Locator Path took 176.41525ms
+2024-11-25 06:46:56.245 [info] Locator Workspaces took 77.943058ms
+2024-11-25 06:46:56.246 [info] Refresh completed in 178ms
+2024-11-25 06:46:56.274 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python
+2024-11-25 06:48:00.572 [info] Resolved Python Environment /home/ubuntu/airflow-venv/bin/python

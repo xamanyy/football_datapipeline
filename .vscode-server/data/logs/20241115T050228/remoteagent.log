@@ -1,0 +1,26 @@
+2024-11-15 05:02:28.252 [info] 
+
+
+
+
+2024-11-15 05:02:28.263 [info] Extension host agent started.
+2024-11-15 05:02:28.649 [info] [<unknown>][fe4055bb][ExtensionHostConnection] New connection established.
+2024-11-15 05:02:28.671 [info] [<unknown>][3cb18b8e][ManagementConnection] New connection established.
+2024-11-15 05:02:28.737 [info] [<unknown>][fe4055bb][ExtensionHostConnection] <1148> Launched Extension Host Process.
+2024-11-15 05:02:46.833 [info] [<unknown>][3cb18b8e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-15 05:02:46.864 [info] [<unknown>][fe4055bb][ExtensionHostConnection] <1148> Extension Host Process exited with code: 0, signal: null.
+2024-11-15 05:02:46.865 [info] Cancelling previous shutdown timeout
+2024-11-15 05:02:46.865 [info] Last EH closed, waiting before shutting down
+2024-11-15 05:02:56.574 [info] [<unknown>][d10f34cb][ExtensionHostConnection] New connection established.
+2024-11-15 05:02:56.575 [info] [<unknown>][2b3fddf2][ManagementConnection] New connection established.
+2024-11-15 05:02:56.580 [info] [<unknown>][d10f34cb][ExtensionHostConnection] <1290> Launched Extension Host Process.
+2024-11-15 05:07:46.867 [info] New EH opened, aborting shutdown
+2024-11-15 05:07:46.870 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-e8653663e8840adaf45af01eab5c627a5af81807/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-11-15 06:03:50.347 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-11-15 06:03:50.484 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-15 06:03:52.575 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 1481ms.
+2024-11-15 06:03:52.688 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+2024-11-15 06:03:52.693 [info] Renamed to /home/ubuntu/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0
+2024-11-15 06:03:52.724 [info] Extension installed successfully: mechatroner.rainbow-csv file:///home/ubuntu/.vscode-server/extensions/extensions.json

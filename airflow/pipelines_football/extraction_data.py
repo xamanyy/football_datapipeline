@@ -105,13 +105,13 @@ def writing_data(**kwargs):
 
     df.to_csv(f"{file_path}",index=False)
 
-    hook = S3Hook("s3_conn")
-    hook.load_file(
-            filename =f"{local_file_path}/{file_path}", 
-            key=f"{folder_name}/{file_path}", 
-            bucket_name=bucket_name, 
-            replace=True  
-    )
+    # hook = S3Hook("s3_conn")
+    # hook.load_file(
+    #         filename =f"{local_file_path}/{file_path}", 
+    #         key=f"{folder_name}/{file_path}", 
+    #         bucket_name=bucket_name, 
+    #         replace=True  
+    # )
     
 
 
